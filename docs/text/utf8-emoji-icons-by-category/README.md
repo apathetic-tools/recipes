@@ -14,9 +14,9 @@ We've highlighted some of our favourites here!
 
 ## 🧭 Navigation
 
-| 🏠 | 🌐 | 📍 | ☰ | 👤 | 👥 | 🏢 | ⚙️ |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Home | Globe /<br/>Web | Location | Menu | Profile | Community /<br/>Users | Organization | Settings |
+| 🏠 | 🌐 / 🌎 | 📍 | ☰ | 👤 | 👥 | 🏢 | ⚙️ | 🛤️ |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Home | Globe /<br/>Web | Location | Menu | Profile | Community /<br/>Users | Organization | Settings | Track /<br/>Path |
 
 ## 🏹 Arrows
 
@@ -48,19 +48,21 @@ We've highlighted some of our favourites here!
 | ✏️ / 📝 | 💾 | 🖋️ | 🖌️ | 🪄 | 📌 | ✂️ | 🔍 / 🔎 | 🧭 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | Edit | Save | Pen | Paintbrush | Magic | Pin | Cut | Search | Compass |
-| 🔧 | 🛠️ | 🔒 / 🔓 | 🔑 | ⌛ | ⚡ | ➕ / ✚ | 🏹 / 🎯 |   |
+| 🔧 | 🛠️ | 🔒 / 🔓 | 🔑 | ⌛ / ⏳ | ⚡ / ⚡️ | ➕ / ✚ | 🏹 / 🎯 |   |
 | Wrench | Tools | Lock /<br/> Unlock | Key | Hourglass | Lightning /<br/>Quick | Add | Target /<br/>Aim |   |
+| 📏 | 🧵 | 🪵 | 💄 | 🏗️ | 🧰 | 🔬 | 🪞 | 🪓 |
+| Ruler | Thread | Wood | Lipstick | Construction | Toolbox | Microscope | Mirror | Axe |
 
 
 ## ⚙️ Status, Alerts & Indicators
 
-| ✅ / ☑️ / ✔️ | 💡/ ℹ️ / ℹ | ⚠️ / ❗ | ❌ / 🛑 / 🚫 |  |
+| ✅ / ☑️ / ✔️ | 💡/ ℹ️ / ℹ / ❓ | ⚠️ / ❗ / 🚨 / 🚧 | ❌ / 🛑 / 🚫 | ♻️ |
 |:--:|:--:|:--:|:--:|:--:|
-| Success | Idea / Info | Warning / Alert | Error / Stop |  |
-| ⭐ / ★ / ☆ | ✨ / ✦ / ✧ | 🔥 | ⚖️ | 🧪 |
+| Success | Idea / Info /<br/>Question | Warning / Alert /<br/>Construction | Error / Stop | Recycle |
+| ⭐ / ★ / ☆ | ✨ / ✦ / ✧ | 🔥 | ⚖️ | 🧪 / 🧬 |
 | Star / Favorite | Sparkles / Highlight | Fire / Hot | Balance / Rules | Experiment / Labs |
-| ⚛ | ∞ | ± | ≈ | ○ |
-| Atom | Infinity | Plus–Minus | Approx. | Circle |
+| ⚛ | ∞ | ± / ≥ / ≤ | ≈ / ⊆ | ○ |
+| Atom | Infinity | Plus-Minus /<br/>Ineq. | Approx. /<br/>Subset | Circle |
 
 ## 🟣 Shapes
 
@@ -75,11 +77,11 @@ We've highlighted some of our favourites here!
 
 ### 🗨️ Communication
 
-| 💬 | 🗨️ | 📢 / 📣 | 📧 | 📨 | 📩 | 📞 |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Right<br/>Bubble | Left<br/>Bubble | Megaphone /<br/>Announcement | Email | Incoming<br/>Mail | Outgoing<br/>Mail | Phone |
-| 🆕 | 🆓 | 🆒 | 🆗 | 🆘 | 🆙 | 🆚 |
-| New | Free | Cool | OK | SOS /<br/>Alert | Up | VS |
+| 💬 | 🗨️ | … | 📢 / 📣 | 📧 | 📨 | 📩 | 📞 |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Right<br/>Bubble | Left<br/>Bubble | Ellipsis /<br/>More | Megaphone /<br/>Announcement | Email | Incoming<br/>Mail | Outgoing<br/>Mail | Phone |
+| 🆕 | 🆓 | | 🆒 | 🆗 | 🆘 | 🆙 | 🆚 |
+| New | Free | | Cool | OK | SOS /<br/>Alert | Up | VS |
 
 
 ### ✋ People & Gestures
@@ -91,15 +93,17 @@ We've highlighted some of our favourites here!
 | Fist<br/>Bump / Action | Writing　　　　　　　　 | Crossed<br/>Fingers　 | Rock-on　　　　　　　| Offer /<br/>Present | You　　　　　　　　| OK　　　　　　　　　 |
 | 👆　　　　　　　　　　 | 👇　　　　　　　　　　　| 👈　　　　　　　　　　| 👉　　　　　　　　　 | 💭　　　　　　　　　| 🕶️　　　　　　　　 | 👀　　　　　　　　　 |
 | Point<br/>Up　　　　　 | Point<br/>Down　　　　　| Point<br/>Left　　　　| Point<br/>Right　　　| Thought　　　　　　 | Shades　　　　　　 | Eyes　　　　　　　　 |
-| 🙋 / 🙋‍♀️ / 🙋‍♂️　　　　 | 🤷 / 🤷‍♀️ / 🤷‍♂️　　　　　| 🤦 / 🤦‍♀️ / 🤦‍♂️　　　　| 🧑　　　　　　　　　 | 　　　　　　　　　　| 　　　　　　　　　 | 　　　　　　　　　　 |
-| Hand<br/>Raise　　　　 | Shrug　　　　　　　　　 | Facepalm　　　　　　　| Person　　　　　　　 | 　　　　　　　　　　| 　　　　　　　　　 | 　　　　　　　　　　 |
+| 🙋 / 🙋‍♀️ / 🙋‍♂️　　　　 | 🤷 / 🤷‍♀️ / 🤷‍♂️　　　　　| 🤦 / 🤦‍♀️ / 🤦‍♂️　　　　| 🧑 / 👨 / 👩　　　　　| 🕵️ / 🕵️‍♀️ / 🕵️‍♂️　　　　| 👷 / 👷‍♀️ / 👷‍♂️　　　　| 🧑‍💻 / 👩‍💻 / 👨‍💻　　　|
+| Hand<br/>Raise　　　　 | Shrug　　　　　　　　　 | Facepalm　　　　　　　| Person　　　　　　　 | Sleuth　　　　　　　 | Worker　　　　　　 | Technologist　　　　 |
+| 🧙 / 🧙‍♀️ / 🧙‍♂️　　　　 | 　　　　　　　　　　　| 　　　　　　　　　　　| 　　　　　　　　　　 | 　　　　　　　　　　| 　　　　　　　　　 | 　　　　　　　　　　 |
+| Mage　　　　　　　　 | 　　　　　　　　　　　| 　　　　　　　　　　　| 　　　　　　　　　　 | 　　　　　　　　　　| 　　　　　　　　　 | 　　　　　　　　　　 |
 
 
 ## 📁 Files & Documents
 
-| 📄 | 📂 / 🗂️ / 📁 | 📋 | 📦 | 📚 | 📤 | 📥 | 🗑️ |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Document | Folder | Clipboard | Package /<br/>Box | Collection /<br/>Library | Upload | Download | Trash |
+| 📄 | 📂 / 🗂️ / 📁 | 📋 | 📊 | 📦 | 📚 | 📤 | 📥 | 🗑️ |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Document | Folder | Clipboard | Chart /<br/>Data | Package /<br/>Box | Collection /<br/>Library | Upload | Download | Trash |
 
 
 ## 💻 Tech, Devices & Hardware
@@ -112,20 +116,30 @@ We've highlighted some of our favourites here!
 
 ## 😊 Smileys & Mood
 
-| 🙂 | 😄 | 😁 | 🥳 | 🤩 | 😎 | 🤓 | 🤯 |
+| 🙂 / 😉 | 😄 / 😅 / 🤣 | 😁 | 🥳 | 🤩 / 🥰 | 😎 | 🤓 | 🤯 |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Smile /<br/>Friendly | Laugh | Grin /<br/>Joy | Party | Excited | Cool | Learning | Mind-Blown |
-| 🤔 / 🧠 | 😐 / 😬 | 😢 | 😡 / 😠 | 😤 | 😰 / 😱 | 😴 / 💤 | 💪 / 🦥 |
-| Think /<br/>Brainstorm | Neutral /<br/>Awkward | Sad | Angry /<br/>Frustrated | Determined | Shocked /<br/>Surprised | Sleepy | Strong /<br/>Chill |
+| Smile /<br/>Wink | Laugh /<br/>Sweat | Grin /<br/>Joy | Party | Excited /<br/>Love | Cool | Learning | Mind-Blown |
+| 🤔 / 🧠 | 😐 / 😬 | 😢 / 😭 | 😡 / 😠 | 😤 / 😮💨 | 😰 / 😱 / 🫣 | 😴 / 💤 | 💪 / 🦥 |
+| Think /<br/>Brainstorm | Neutral /<br/>Awkward | Sad /<br/>Cry | Angry /<br/>Frustrated | Determined /<br/>Exhale | Shocked /<br/>Surprised | Sleepy | Strong /<br/>Chill |
+| 😛 / 😝 | 😗 | 🥹 / 🥺 | 😩 / 😫 | 😳 / 🫨 | 😦 / 😧 | 🥵 / 🫠 | 🥴 / 🤤 |
+| Tongue /<br/>Playful | Kiss | Pleading /<br/>Tears | Weary /<br/>Tired | Flushed /<br/>Shaking | Frown /<br/>Anguished | Hot /<br/>Melting | Woozy /<br/>Drooling |
+| 🤫 | 🤢 | 💩 | | | | | |
+| Shush /<br/>Quiet | Sick /<br/>Nauseous | Poo | | | | | |
 
 
 ## 🌈 Fun, Mood & Achievement
 
-| 🏆 | 🚀 | 🌟 / ⚝ | 🎉 | 🎁 |
+| 🏆 | 🥇 / 🏅 | 🥈 | 🥉 | 🎖️ |
 |:--:|:--:|:--:|:--:|:--:|
-| Trophy /<br/>Achievement | Rocket /<br/>Launch | Star /<br/>Highlight | Party /<br/>Celebrate | Gift /<br/>Reward |
-| ❤️ / ♥ / ♡ | 💔 | 🌙 / ☀️ | ☁ | 🧩 |
-| Love /<br/>Favorite | Broken<br/>Heart | Moon / Sun | Cloud /<br/>Mood | Puzzle /<br/>Challenge |
+| Trophy | Gold /<br/>Medal | Silver | Bronze | Military<br/>Medal |
+| 🚀 | 🌟 / ⚝ | 🎉 | 🎁 | 🧩 |
+| Rocket /<br/>Launch | Star /<br/>Highlight | Party /<br/>Celebrate | Gift /<br/>Reward | Puzzle /<br/>Challenge |
+| ❤️ / ♥ / ♡ | 💔 | 🌙 / ☀️ | ☁ | 🌈 |
+| Love /<br/>Favorite | Broken<br/>Heart | Moon / Sun | Cloud /<br/>Mood | Rainbow |
+| 🍿 | 👑 | 💎 | 🌀 | 🧿 |
+| Popcorn | Crown | Gem | Spiral | Amulet |
+| 🌱 | 🐍 | 🐘 | | |
+| Seedling | Snake | Elephant | | |
 
 
 ## Keycaps
